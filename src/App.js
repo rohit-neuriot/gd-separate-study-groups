@@ -81,7 +81,7 @@ function App() {
     parksGeoJson.addTo(map);
   }, [nationalParks]);
 
-  useEffect(() => reRender([{label: 'British Oculoplastic Surg Soc BOP', value: 'British Oculoplastic Surg Soc BOP'}], "study_group"), [])
+  useEffect(() => reRender([{label: 'Consensus Work Grp', value: 'Consensus Work Grp'}], "study_group"), [])
 
   function clearSelectedHCPFilter() {
     setHcpFilterValue([])

@@ -2,1137 +2,1977 @@ const input = {
     "type": "FeatureCollection",
     "features": [
         {
-          "lat": 52.5669458546569,
-          "long": -2.31551718357469,
-          "group": "British Oculoplastic Surg Soc BOP",
-          "name": "Vickie Lee",
+          "lat": 38.919601,
+          "long": -75.519885,
+          "group": "Consensus Work Grp",
+          "name": "Bernard Goichot",
           "speciality": ""
         },
         {
-          "lat": 52.555264122817,
-          "long": -3.23716815317139,
-          "group": "British Oculoplastic Surg Soc BOP",
-          "name": "Parizad Avari",
-          "speciality": ""
-        },
-        {
-          "lat": 51.8402313689053,
-          "long": -2.9799567430891,
-          "group": "British Oculoplastic Surg Soc BOP",
-          "name": "Ben Williams",
-          "speciality": ""
-        },
-        {
-          "lat": 58.202408873193,
-          "long": -3.89572120333375,
-          "group": "British Oculoplastic Surg Soc BOP",
-          "name": "Petros Perros",
+          "lat": 49.1188664027465,
+          "long": 3.66628569315597,
+          "group": "Consensus Work Grp",
+          "name": "Laurence Leenhardt",
           "speciality": "Endocrinology, Diabetes & Metabolism"
         },
         {
-          "lat": 51.659352530045,
-          "long": 0.61934132447406,
-          "group": "British Oculoplastic Surg Soc BOP",
-          "name": "Colin Dayan",
-          "speciality": "Endocrinology, Diabetes & Metabolism"
-        },
-        {
-          "lat": 55.2828430691283,
-          "long": -3.15295142297071,
-          "group": "CIRTED Investigators",
-          "name": "Alina Dietrich",
-          "speciality": ""
-        },
-        {
-          "lat": 53.2805446613404,
-          "long": -1.30415364578019,
-          "group": "CIRTED Investigators",
-          "name": "Peter Taylor",
-          "speciality": "Endocrinology, Diabetes & Metabolism"
-        },
-        {
-          "lat": 51.1621687378195,
-          "long": -2.50780401736584,
-          "group": "CIRTED Investigators",
-          "name": "Paul White",
-          "speciality": ""
-        },
-        {
-          "lat": 50.955260100276,
-          "long": -0.604995187140855,
-          "group": "CIRTED Investigators",
-          "name": "Victoria Wilson",
-          "speciality": ""
-        },
-        {
-          "lat": 57.1913433205508,
-          "long": -4.57227049848774,
-          "group": "CIRTED Investigators",
-          "name": "Jimmy Uddin",
-          "speciality": ""
-        },
-        {
-          "lat": 51.4044460827991,
-          "long": 0.399049323172251,
-          "group": "CIRTED Investigators",
-          "name": "Richard William John Lee",
-          "speciality": ""
-        },
-        {
-          "lat": 52.3261287569547,
-          "long": -3.91442846287657,
-          "group": "CIRTED Investigators",
-          "name": "Colin Dayan",
-          "speciality": "Endocrinology, Diabetes & Metabolism"
-        },
-        {
-          "lat": 52.4604607954624,
-          "long": -0.564108170540949,
-          "group": "CIRTED Investigators",
-          "name": "Sue Jackson",
-          "speciality": ""
-        },
-        {
-          "lat": 43.9996799878675,
-          "long": 7.80443321483757,
-          "group": "EUGOGO",
-          "name": "L Bartalena",
-          "speciality": ""
-        },
-        {
-          "lat": 53.6220310046527,
-          "long": 10.8822819358623,
-          "group": "EUGOGO",
-          "name": "G J Kahaly",
-          "speciality": ""
-        },
-        {
-          "lat": 51.0443339311149,
-          "long": 4.66652624633862,
-          "group": "EUGOGO",
-          "name": "L Baldeschi",
-          "speciality": ""
-        },
-        {
-          "lat": 54.1276649431969,
-          "long": -1.1697618517785,
-          "group": "EUGOGO",
-          "name": "C M Dayan",
-          "speciality": ""
-        },
-        {
-          "lat": 51.8883283665426,
-          "long": 10.8096332940791,
-          "group": "EUGOGO",
-          "name": "A Eckstein",
-          "speciality": ""
-        },
-        {
-          "lat": 44.2543419150888,
-          "long": 7.35724732381766,
-          "group": "EUGOGO",
-          "name": "C Marcocci",
-          "speciality": ""
-        },
-        {
-          "lat": 38.1555684191312,
-          "long": 15.9349318395794,
-          "group": "EUGOGO",
-          "name": "M Marino",
-          "speciality": ""
-        },
-        {
-          "lat": 54.5710706224608,
-          "long": -7.0114087375821,
-          "group": "EUGOGO",
-          "name": "B Vaidya",
-          "speciality": ""
-        },
-        {
-          "lat": 51.671623594127,
-          "long": 4.76010057036838,
-          "group": "EUGOGO",
-          "name": "W M Wiersinga",
-          "speciality": ""
-        },
-        {
-          "lat": 44.021154,
-          "long": 21.007482,
-          "group": "EUGOGO",
-          "name": "M Zarkovic",
-          "speciality": ""
-        },
-        {
-          "lat": 52.3025420317944,
-          "long": 6.27850495982025,
-          "group": "EUGOGO",
-          "name": "W Wiersinga",
-          "speciality": ""
-        },
-        {
-          "lat": -9.33620132542445,
-          "long": 46.2958826114182,
-          "group": "EUGOGO",
-          "name": "P Perros",
-          "speciality": ""
-        },
-        {
-          "lat": 43.7919638398239,
-          "long": 11.6847725351228,
-          "group": "EUGOGO",
-          "name": "S Donati",
-          "speciality": ""
-        },
-        {
-          "lat": 56.4239814626289,
-          "long": -5.44350276512523,
-          "group": "EUGOGO",
-          "name": "O Okosieme",
-          "speciality": ""
-        },
-        {
-          "lat": 52.5567346237289,
-          "long": -0.0125082873540574,
-          "group": "EUGOGO",
-          "name": "D Morris",
-          "speciality": ""
-        },
-        {
-          "lat": 46.5547859257787,
-          "long": 7.36966325677675,
-          "group": "EUGOGO",
-          "name": "N Fichter",
-          "speciality": ""
-        },
-        {
-          "lat": 47.122390291521,
-          "long": 7.14396353673746,
-          "group": "EUGOGO",
-          "name": "J Lareida",
-          "speciality": ""
-        },
-        {
-          "lat": 51.0791905115908,
-          "long": 4.06117747524652,
-          "group": "EUGOGO",
-          "name": "C Daumerie",
-          "speciality": ""
-        },
-        {
-          "lat": 50.3070013488321,
-          "long": 5.20149728162485,
-          "group": "EUGOGO",
-          "name": "M C Burlacu",
-          "speciality": ""
-        },
-        {
-          "lat": 49.095426508996,
-          "long": 10.5961813506057,
-          "group": "EUGOGO",
-          "name": "S Pitz",
-          "speciality": ""
-        },
-        {
-          "lat": 44.018781,
-          "long": 21.00691,
-          "group": "EUGOGO",
-          "name": "B Beleslin",
-          "speciality": ""
-        },
-        {
-          "lat": 44.02071,
-          "long": 21.011129,
-          "group": "EUGOGO",
-          "name": "J Ciric",
-          "speciality": ""
-        },
-        {
-          "lat": 38.9981163179598,
-          "long": 43.3760533425359,
-          "group": "EUGOGO",
-          "name": "G Ayvaz",
-          "speciality": ""
-        },
-        {
-          "lat": 38.3240641086516,
-          "long": 31.6443686276315,
-          "group": "EUGOGO",
-          "name": "O Konuk",
-          "speciality": ""
-        },
-        {
-          "lat": 38.673118708094,
-          "long": 41.2011084791321,
-          "group": "EUGOGO",
-          "name": "F B Toruner",
-          "speciality": ""
-        },
-        {
-          "lat": 39.4662431861608,
-          "long": 9.11367770297544,
-          "group": "EUGOGO",
-          "name": "M Salvi",
-          "speciality": ""
-        },
-        {
-          "lat": 43.9201489041157,
-          "long": 12.8642100124232,
-          "group": "EUGOGO",
-          "name": "D Covelli",
-          "speciality": ""
-        },
-        {
-          "lat": 42.2656058345343,
-          "long": 12.6994562310935,
-          "group": "EUGOGO",
-          "name": "N Curro",
-          "speciality": ""
-        },
-        {
-          "lat": 55.0658467915502,
-          "long": 11.8389759682115,
-          "group": "EUGOGO",
-          "name": "L Hegedus",
-          "speciality": ""
-        },
-        {
-          "lat": 55.6247164588559,
-          "long": 12.3917716694665,
-          "group": "EUGOGO",
-          "name": "T Brix",
+          "lat": 38.91521,
+          "long": -75.521902,
+          "group": "Consensus Work Grp",
+          "name": "Catherine Massart",
           "speciality": ""
         },
         {
-          "lat": -4.6267863563611,
-          "long": 55.458702140399,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "P Perros",
+          "lat": 38.918635,
+          "long": -75.524724,
+          "group": "Consensus Work Grp",
+          "name": "Veronique Raverot",
           "speciality": ""
         },
         {
-          "lat": 44.026009,
-          "long": 21.012558,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "M P Zarkovic",
+          "lat": 38.914579,
+          "long": -75.520022,
+          "group": "Consensus Work Grp",
+          "name": "Jean Tramalloni",
           "speciality": ""
         },
         {
-          "lat": -4.72551912484517,
-          "long": 55.486253263863,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "G C Panagiotou",
+          "lat": 38.92082,
+          "long": -75.520036,
+          "group": "Consensus Work Grp",
+          "name": "Hinde Iraqi",
           "speciality": ""
         },
         {
-          "lat": 42.5715387983825,
-          "long": 12.3814035838315,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "C Azzolini",
+          "lat": 1.30503826746093,
+          "long": 103.85428632967,
+          "group": "Asian Graves Consortium Study",
+          "name": "Rajeev Parameswaran",
           "speciality": ""
         },
         {
-          "lat": 38.5439733152777,
-          "long": 28.4885124989904,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "G Ayvaz",
+          "lat": 1.37681312522731,
+          "long": 103.851329555034,
+          "group": "Asian Graves Consortium Study",
+          "name": "Mechteld Christine de Jong",
           "speciality": ""
         },
         {
-          "lat": 49.9950714755147,
-          "long": 4.64053767892386,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "L Baldeschi",
+          "lat": 1.36666889871469,
+          "long": 103.722599918229,
+          "group": "Asian Graves Consortium Study",
+          "name": "James Lee Wai Kit",
           "speciality": ""
         },
         {
-          "lat": 45.7558542277874,
-          "long": 7.41443869866511,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "L Bartalena",
+          "lat": 1.33415502709509,
+          "long": 103.957141801167,
+          "group": "Asian Graves Consortium Study",
+          "name": "Kathleen Sek",
           "speciality": ""
         },
         {
-          "lat": 50.0771918146447,
-          "long": 5.10487201775565,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "A M Boschi",
+          "lat": 22.4853331511911,
+          "long": 102.628844627147,
+          "group": "Asian Graves Consortium Study",
+          "name": "Tran Quang Nam",
           "speciality": ""
         },
         {
-          "lat": 41.3443779837849,
-          "long": 15.303618886007,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "M Nardi",
+          "lat": 21.5999927876527,
+          "long": 105.897807831449,
+          "group": "Asian Graves Consortium Study",
+          "name": "Tran Viet Thang",
           "speciality": ""
         },
         {
-          "lat": 56.6122854956718,
-          "long": 8.70882426373015,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "T H Brix",
+          "lat": 21.7327314819443,
+          "long": 106.644324063945,
+          "group": "Asian Graves Consortium Study",
+          "name": "Nguyen Thy Khue",
           "speciality": ""
         },
         {
-          "lat": 39.3871831050349,
-          "long": 8.65188835654832,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "D Covelli",
+          "lat": 18.2941521803641,
+          "long": 96.6647152608508,
+          "group": "Asian Graves Consortium Study",
+          "name": "Than Than Aye",
           "speciality": ""
         },
         {
-          "lat": 50.6157246941624,
-          "long": 6.12647593125369,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "C Daumerie",
+          "lat": 20.5760645513349,
+          "long": 96.2296487746894,
+          "group": "Asian Graves Consortium Study",
+          "name": "Phone Myint Tun",
           "speciality": ""
         },
         {
-          "lat": 53.342010978354,
-          "long": 13.3262449547399,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "A K Eckstein",
+          "lat": -39.4434367102447,
+          "long": 175.763940853629,
+          "group": "Asian Graves Consortium Study",
+          "name": "Timothy D Cheetham",
           "speciality": ""
         },
         {
-          "lat": 46.8123449909127,
-          "long": 9.89811978049699,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "N Fichter",
+          "lat": -28.8215109147621,
+          "long": 151.838915477992,
+          "group": "Asian Graves Consortium Study",
+          "name": "Julie A Miller",
           "speciality": ""
         },
         {
-          "lat": 44.02324,
-          "long": 21.008095,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "S Ciric",
+          "lat": 11.1816510820812,
+          "long": 122.277532528135,
+          "group": "Asian Graves Consortium Study",
+          "name": "Michael Villa",
           "speciality": ""
         },
         {
-          "lat": 55.4222574688759,
-          "long": 10.1877843867095,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "L Hegedus",
+          "lat": 9.36625085230265,
+          "long": 99.1019659136149,
+          "group": "Asian Graves Consortium Study",
+          "name": "Benjapa Khiewvan",
           "speciality": ""
         },
         {
-          "lat": 48.2878374944004,
-          "long": 12.2407759347143,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "G J Kahaly",
+          "lat": 14.4512635302122,
+          "long": 102.257338472046,
+          "group": "Asian Graves Consortium Study",
+          "name": "Sirinart Sirinvaravong",
           "speciality": ""
         },
         {
-          "lat": 40.5595314437774,
-          "long": 33.7553446991865,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "O Konuk",
+          "lat": 3.76118538535124,
+          "long": 101.207098473765,
+          "group": "Asian Graves Consortium Study",
+          "name": "Yongze Li",
           "speciality": ""
         },
         {
-          "lat": 46.9580680338874,
-          "long": 9.50721772241632,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "J J Lareida",
+          "lat": 5.52317486555934,
+          "long": 117.716433850333,
+          "group": "Asian Graves Consortium Study",
+          "name": "Rohaizak Muhammad",
           "speciality": ""
         },
         {
-          "lat": 51.1913250509361,
-          "long": 0.270717053421469,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "O E Okosieme",
+          "lat": 24.0281808993491,
+          "long": 121.618484092226,
+          "group": "Asian Graves Consortium Study",
+          "name": "Tjin Shing Jap",
           "speciality": ""
         },
         {
-          "lat": 41.8690709943812,
-          "long": 13.5441524787483,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "M Leo",
+          "lat": 26.4081015954154,
+          "long": 91.8368322867824,
+          "group": "Asian Graves Consortium Study",
+          "name": "Amit Agrawal",
           "speciality": ""
         },
         {
-          "lat": -4.70742470115349,
-          "long": 55.5158401809805,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "L Mathiopoulou",
+          "lat": 31.9145565248608,
+          "long": 77.4190543506978,
+          "group": "Asian Graves Consortium Study",
+          "name": "Rajesh Rawal",
           "speciality": ""
         },
         {
-          "lat": -3.81071478653041,
-          "long": 55.6646684922582,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "L Clarke",
+          "lat": 7.40038989986086,
+          "long": 80.3497217623101,
+          "group": "Asian Graves Consortium Study",
+          "name": "Ranil Fernando",
           "speciality": ""
         },
         {
-          "lat": 45.299724957625,
-          "long": 10.1391448638155,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "F Menconi",
+          "lat": 7.69059643406329,
+          "long": 81.4070701748982,
+          "group": "Asian Graves Consortium Study",
+          "name": "Manilka Sumanatilleke",
           "speciality": ""
         },
         {
-          "lat": 51.8743394205633,
-          "long": -3.12820329291476,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "D S Morris",
+          "lat": -4.00121709829246,
+          "long": 114.911577394602,
+          "group": "Asian Graves Consortium Study",
+          "name": "Ketut Suastika",
           "speciality": ""
         },
         {
-          "lat": 45.3132256184413,
-          "long": 6.77682871977885,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "J Orgiazzi",
+          "lat": 35.2694506556233,
+          "long": 127.113718915247,
+          "group": "Asian Graves Consortium Study",
+          "name": "Young Kee Shong",
           "speciality": ""
         },
         {
-          "lat": 51.7258110505503,
-          "long": 8.94210266458034,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "S Pitz",
+          "lat": 22.404451,
+          "long": 114.112125,
+          "group": "Asian Graves Consortium Study",
+          "name": "Jun Liang",
           "speciality": ""
-        },
-        {
-          "lat": 45.999903873229,
-          "long": 8.27817696399552,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "M Salvi",
-          "speciality": ""
-        },
-        {
-          "lat": 46.0762066485503,
-          "long": 12.8476488572131,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "I Muller",
-          "speciality": ""
-        },
-        {
-          "lat": 44.022408,
-          "long": 21.009877,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "M Knezevic",
-          "speciality": ""
-        },
-        {
-          "lat": 51.2119231294538,
-          "long": 5.95378188319859,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "W M Wiersinga",
-          "speciality": ""
-        },
-        {
-          "lat": 46.1449676518958,
-          "long": 13.2529222135942,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "N Curro",
-          "speciality": ""
-        },
-        {
-          "lat": 54.6590038076373,
-          "long": -3.50131169091369,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "C M Dayan",
-          "speciality": ""
-        },
-        {
-          "lat": 40.7432162599793,
-          "long": 16.633872544051,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "C Marcocci",
-          "speciality": ""
-        },
-        {
-          "lat": 41.4329373172785,
-          "long": 13.7994711709109,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "M Marino",
-          "speciality": ""
-        },
-        {
-          "lat": 46.5036313736849,
-          "long": 7.7859417577197,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "L Moller",
-          "speciality": ""
-        },
-        {
-          "lat": -5.43290896846648,
-          "long": 53.3404054554546,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "S H Pearce",
-          "speciality": ""
-        },
-        {
-          "lat": 37.7026929816908,
-          "long": 32.6382473658764,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "F Toruner",
-          "speciality": ""
-        },
-        {
-          "lat": 49.8123626897676,
-          "long": 3.45466872198089,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "M Bernard",
-          "speciality": ""
-        },
-        {
-          "lat": 39.6405677200283,
-          "long": 16.3692996205663,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "Claudio Marcocci",
-          "speciality": "Endocrinology, Diabetes & Metabolism"
         },
         {
-          "lat": 44.8053493384747,
-          "long": 11.0930866626837,
-          "group": "European Grp Graves Orbitopathy",
+          "lat": 46.3642302510946,
+          "long": 8.33003436467188,
+          "group": "Asian Graves Consortium Study",
           "name": "Luigi Bartalena",
           "speciality": "Endocrinology, Diabetes & Metabolism"
         },
         {
-          "lat": 49.8402604293796,
-          "long": 5.37570704777212,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "Lelio Baldeschi",
+          "lat": 1.28527687221137,
+          "long": 103.851713478829,
+          "group": "Asian Graves Consortium Study",
+          "name": "Shao Ying Yang",
           "speciality": ""
         },
         {
-          "lat": 40.5822674779374,
-          "long": 22.3433137443994,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "Kostas Boboridis",
+          "lat": 27.5161602002508,
+          "long": 107.76115114281,
+          "group": "China Consortium Genetics",
+          "name": "Fei Fei Yuan",
           "speciality": ""
         },
         {
-          "lat": 47.5086278573399,
-          "long": 10.2087769150914,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "Anja Eckstein",
-          "speciality": "Ophthalmology"
-        },
-        {
-          "lat": 52.5265966282236,
-          "long": 8.66109066291595,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "George J Kahaly",
-          "speciality": "Endocrinology, Diabetes & Metabolism"
-        },
-        {
-          "lat": 40.6900698340467,
-          "long": 9.38609939823194,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "Claudio Marcocci",
-          "speciality": "Endocrinology, Diabetes & Metabolism"
-        },
-        {
-          "lat": 55.5479565962275,
-          "long": -2.60944671543086,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "Petros Perros",
-          "speciality": "Endocrinology, Diabetes & Metabolism"
-        },
-        {
-          "lat": 37.1588627723073,
-          "long": 15.2061947312772,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "Mario Salvi",
-          "speciality": "Endocrinology, Diabetes & Metabolism"
-        },
-        {
-          "lat": 52.1889751893486,
-          "long": 5.38759792610148,
-          "group": "European Grp Graves Orbitopathy",
-          "name": "Wilmar M Wiersinga",
+          "lat": 32.6830582941035,
+          "long": 82.4060394019671,
+          "group": "China Consortium Genetics",
+          "name": "X P Ye",
           "speciality": ""
         },
         {
-          "lat": 48.0131990918417,
-          "long": 8.49147176556748,
-          "group": "European Multicenter Trial Grp Tre",
-          "name": "G Benker",
+          "lat": 40.4353389999782,
+          "long": 104.786386459898,
+          "group": "China Consortium Genetics",
+          "name": "Wei Liu",
           "speciality": ""
         },
         {
-          "lat": 36.77961,
-          "long": -119.414242,
-          "group": "Int Thyroid Eye Dis Soc",
-          "name": "Raymond S Douglas",
-          "speciality": "Ophthalmology"
-        },
-        {
-          "lat": 35.4070423162237,
-          "long": 127.011490096196,
-          "group": "Korean Soc Ophthalmic Plastic Reco",
-          "name": "JaeSang Ko",
+          "lat": 48.4291444039303,
+          "long": 117.472174999604,
+          "group": "China Consortium Genetics",
+          "name": "L Q Xue",
           "speciality": ""
         },
         {
-          "lat": 36.0230841279269,
-          "long": 127.324657421306,
-          "group": "Korean Soc Ophthalmic Plastic Reco",
-          "name": "Jin Sook Yoon",
+          "lat": 39.4296917746406,
+          "long": 96.8347954425947,
+          "group": "China Consortium Genetics",
+          "name": "Yu Ru Ma",
           "speciality": ""
         },
         {
-          "lat": 35.5243873060351,
-          "long": 126.775478459159,
-          "group": "Korean Soc Ophthalmic Plastic Reco",
-          "name": "Kyung In Woo",
+          "lat": 41.6001596867482,
+          "long": 95.1140977331051,
+          "group": "China Consortium Genetics",
+          "name": "Q Y Zhang",
           "speciality": ""
         },
         {
-          "lat": 36.78165,
-          "long": -119.416169,
-          "group": "NORDIC",
-          "name": "Christopher I Zoumalan",
-          "speciality": "Plastic Surgery Within the Head and Neck"
-        },
-        {
-          "lat": 43.810881,
-          "long": -120.548596,
-          "group": "Orbital Dis Consortium",
-          "name": "James T Rosenbaum",
-          "speciality": "Neuro-ophthalmology"
-        },
-        {
-          "lat": 43.812785,
-          "long": -120.553584,
-          "group": "Orbital Dis Consortium",
-          "name": "Dongseok Choi",
+          "lat": 31.8035085083534,
+          "long": 101.158123297977,
+          "group": "China Consortium Genetics",
+          "name": "Q Y Zhang",
           "speciality": ""
         },
         {
-          "lat": 43.805892,
-          "long": -120.546634,
-          "group": "Orbital Dis Consortium",
-          "name": "David J Wilson",
-          "speciality": "Retina Specialist"
-        },
-        {
-          "lat": 43.813025,
-          "long": -120.546609,
-          "group": "Orbital Dis Consortium",
-          "name": "Hans E Grossniklaus",
-          "speciality": "Ophthalmology"
-        },
-        {
-          "lat": 43.809806,
-          "long": -120.547587,
-          "group": "Orbital Dis Consortium",
-          "name": "Cailin H Sibley",
+          "lat": 43.3696499083377,
+          "long": 116.288924695771,
+          "group": "China Consortium Genetics",
+          "name": "Feng Sun",
           "speciality": ""
         },
         {
-          "lat": 43.80935,
-          "long": -120.551764,
-          "group": "Orbital Dis Consortium",
-          "name": "Christina A Harrington",
+          "lat": 25.9319717554147,
+          "long": 116.849349085064,
+          "group": "China Consortium Genetics",
+          "name": "Y Y Wan",
           "speciality": ""
         },
         {
-          "lat": 43.811559,
-          "long": -120.545387,
-          "group": "Orbital Dis Consortium",
-          "name": "Stephen R Planck",
+          "lat": 33.339570988695,
+          "long": 92.3241105364744,
+          "group": "China Consortium Genetics",
+          "name": "Q Y Zhang",
           "speciality": ""
         },
         {
-          "lat": 54.386539848174,
-          "long": 12.7098175226611,
-          "group": "TAO Multictr Study Grp",
-          "name": "Jurgen Gerling",
+          "lat": 28.3019562529245,
+          "long": 106.743801741624,
+          "group": "China Consortium Genetics",
+          "name": "Shuang Xia Zhao",
           "speciality": ""
         },
         {
-          "lat": -4.32598274425358,
-          "long": 55.7552578586405,
-          "group": "TEAMeD UK Thyroid Eye Dis",
-          "name": "Anna L Mitchell",
-          "speciality": "Endocrinology, Diabetes & Metabolism"
-        },
-        {
-          "lat": 55.0637335816825,
-          "long": -3.22349340668724,
-          "group": "TEAMeD UK Thyroid Eye Dis",
-          "name": "Janis Hickey",
+          "lat": 30.3723264158915,
+          "long": 90.3778995971413,
+          "group": "China Consortium Genetics",
+          "name": "Zhi Yi Song",
           "speciality": ""
         },
         {
-          "lat": 52.807899858545,
-          "long": -1.62765179483005,
-          "group": "TEAMeD UK Thyroid Eye Dis",
-          "name": "Bijay Vaidya",
-          "speciality": "Endocrinology, Diabetes & Metabolism"
-        },
-        {
-          "lat": 51.3081225420058,
-          "long": -0.763649616475064,
-          "group": "TEAMeD UK Thyroid Eye Dis",
-          "name": "Rhianne Mason",
+          "lat": 38.911612,
+          "long": -75.523439,
+          "group": "Soc Espanola Endocrinologia Pediat",
+          "name": "Susana Ares Segura",
           "speciality": ""
         },
         {
-          "lat": 50.6692044487511,
-          "long": -4.39054509858964,
-          "group": "TEAMeD UK Thyroid Eye Dis",
-          "name": "Ramzi Ajjan",
+          "lat": 38.911231,
+          "long": -75.520324,
+          "group": "Soc Espanola Endocrinologia Pediat",
+          "name": "Carmen Temboury Molina",
           "speciality": ""
         },
         {
-          "lat": 51.7722848936111,
-          "long": -2.92885490995829,
-          "group": "TEAMeD UK Thyroid Eye Dis",
-          "name": "Nicola Zammitt",
+          "lat": 38.91153,
+          "long": -75.521795,
+          "group": "Soc Espanola Endocrinologia Pediat",
+          "name": "Maria Jesus Alija Merillas",
           "speciality": ""
         },
         {
-          "lat": -4.34086019760028,
-          "long": 55.7543273771986,
-          "group": "TEAMeD UK Thyroid Eye Dis",
-          "name": "Petros Perros",
-          "speciality": "Endocrinology, Diabetes & Metabolism"
+          "lat": 38.918212,
+          "long": -75.522084,
+          "group": "Soc Espanola Endocrinologia Pediat",
+          "name": "Maria Caimari Jaume",
+          "speciality": ""
         },
         {
-          "lat": 51.0512748921222,
-          "long": -4.02914627709295,
-          "group": "TEAMeD UK Thyroid Eye Dis",
-          "name": "Colin Dayan",
-          "speciality": "Endocrinology, Diabetes & Metabolism"
+          "lat": 38.9527166252126,
+          "long": -3.72251597170572,
+          "group": "Soc Espanola Endocrinologia Pediat",
+          "name": "Jose Carlos Moreno Navarro",
+          "speciality": ""
         },
         {
-          "lat": -4.34533084771963,
-          "long": 55.9188004068051,
-          "group": "TEAMeD UK Thyroid Eye Dis",
+          "lat": 42.0992257367444,
+          "long": -6.51015608292755,
+          "group": "Soc Espanola Endocrinologia Pediat",
+          "name": "Amparo Rodriguez Sanchez",
+          "speciality": ""
+        },
+        {
+          "lat": 19.7241891536664,
+          "long": 110.64257820361,
+          "group": "China Consortium Genetics",
+          "name": "Wei Liu",
+          "speciality": ""
+        },
+        {
+          "lat": 41.0874059673815,
+          "long": 114.982879003617,
+          "group": "China Consortium Genetics",
+          "name": "Xiao Mei Zhang",
+          "speciality": ""
+        },
+        {
+          "lat": 39.6828570311764,
+          "long": 111.532610324596,
+          "group": "China Consortium Genetics",
+          "name": "Fei Fei Yuan",
+          "speciality": ""
+        },
+        {
+          "lat": 25.0234864393735,
+          "long": 117.925663255639,
+          "group": "China Consortium Genetics",
+          "name": "Hai Ning Wang",
+          "speciality": ""
+        },
+        {
+          "lat": 48.2844590964346,
+          "long": 117.437704353278,
+          "group": "China Consortium Genetics",
+          "name": "Q Y Zhang",
+          "speciality": ""
+        },
+        {
+          "lat": 43.9934718054982,
+          "long": 81.21788536632,
+          "group": "China Consortium Genetics",
+          "name": "Yu Ru Ma",
+          "speciality": ""
+        },
+        {
+          "lat": 24.3602380349376,
+          "long": 100.996974144583,
+          "group": "China Consortium Genetics",
+          "name": "Xiao Ping Ye",
+          "speciality": ""
+        },
+        {
+          "lat": 29.7417059992781,
+          "long": 120.678615682493,
+          "group": "China Consortium Genetics",
+          "name": "Ming Zhan",
+          "speciality": ""
+        },
+        {
+          "lat": 45.6307505763432,
+          "long": 90.5851768244751,
+          "group": "China Consortium Genetics",
+          "name": "Zhi Yi Song",
+          "speciality": ""
+        },
+        {
+          "lat": 37.2698190577287,
+          "long": 120.761280029889,
+          "group": "China Consortium Genetics",
+          "name": "Sheng Xian Li",
+          "speciality": ""
+        },
+        {
+          "lat": 28.2795756660874,
+          "long": 92.5857177350805,
+          "group": "China Consortium Genetics",
+          "name": "Wen Hua Du",
+          "speciality": ""
+        },
+        {
+          "lat": 37.9402600471099,
+          "long": 79.3780315231447,
+          "group": "China Consortium Genetics",
+          "name": "Jun Liang",
+          "speciality": ""
+        },
+        {
+          "lat": 40.7436371180378,
+          "long": 81.6161748150771,
+          "group": "China Consortium Genetics",
+          "name": "Xiao Mei Zhang",
+          "speciality": ""
+        },
+        {
+          "lat": 38.8042239869258,
+          "long": 101.554945845743,
+          "group": "China Consortium Genetics",
+          "name": "Guan Qi Gao",
+          "speciality": ""
+        },
+        {
+          "lat": 31.1680644941857,
+          "long": 89.5798741604178,
+          "group": "China Consortium Genetics",
+          "name": "Shuang Xia Zhao",
+          "speciality": ""
+        },
+        {
+          "lat": 44.0631977358476,
+          "long": 130.691313603132,
+          "group": "China Consortium Genetics",
+          "name": "Xia Chen",
+          "speciality": ""
+        },
+        {
+          "lat": 38.4097029054357,
+          "long": 115.168812047093,
+          "group": "China Consortium Genetics",
+          "name": "Huai Dong Song",
+          "speciality": ""
+        },
+        {
+          "lat": 54.0491165228188,
+          "long": 12.3475132300124,
+          "group": "Prospective Evaluation Study",
+          "name": "O Thomusch",
+          "speciality": ""
+        },
+        {
+          "lat": 49.0820040310859,
+          "long": 10.9021250539576,
+          "group": "Prospective Evaluation Study",
+          "name": "C Sekulla",
+          "speciality": ""
+        },
+        {
+          "lat": 53.0497516593009,
+          "long": 10.6606078508377,
+          "group": "Prospective Evaluation Study",
+          "name": "F Billmann",
+          "speciality": ""
+        },
+        {
+          "lat": 49.4355685625383,
+          "long": 9.2576739863061,
+          "group": "Prospective Evaluation Study",
+          "name": "G Seifert",
+          "speciality": ""
+        },
+        {
+          "lat": 53.7737512377708,
+          "long": 8.68968879726268,
+          "group": "Prospective Evaluation Study",
+          "name": "H Dralle",
+          "speciality": ""
+        },
+        {
+          "lat": 49.0303121130167,
+          "long": 12.2754212556353,
+          "group": "Prospective Evaluation Study",
+          "name": "K Lorenz",
+          "speciality": ""
+        },
+        {
+          "lat": 33.3153757322273,
+          "long": 91.924140801905,
+          "group": "China Consortium Genetics",
+          "name": "Yu Yao",
+          "speciality": ""
+        },
+        {
+          "lat": 43.8764390457312,
+          "long": 83.1483199060369,
+          "group": "China Consortium Genetics",
+          "name": "Ying Ru",
+          "speciality": ""
+        },
+        {
+          "lat": 45.5804755654428,
+          "long": 117.677175508857,
+          "group": "China Consortium Genetics",
+          "name": "Feng Sun",
+          "speciality": ""
+        },
+        {
+          "lat": 22.8713603388895,
+          "long": 99.7480906811162,
+          "group": "China Consortium Genetics",
+          "name": "Rui Jia Zhang",
+          "speciality": ""
+        },
+        {
+          "lat": 48.3265147237201,
+          "long": 128.298330504231,
+          "group": "China Consortium Genetics",
+          "name": "Shao Ying Yang",
+          "speciality": ""
+        },
+        {
+          "lat": 36.3751568281637,
+          "long": 103.136005259813,
+          "group": "China Consortium Genetics",
+          "name": "Ming Zhan",
+          "speciality": ""
+        },
+        {
+          "lat": 44.9354887761282,
+          "long": 92.8128659213529,
+          "group": "China Consortium Genetics",
+          "name": "Wei Liu",
+          "speciality": ""
+        },
+        {
+          "lat": 35.4832768448189,
+          "long": 78.2262767737633,
+          "group": "China Consortium Genetics",
+          "name": "Xia Chen",
+          "speciality": ""
+        },
+        {
+          "lat": 35.674371156609,
+          "long": 93.4620273728768,
+          "group": "China Consortium Genetics",
+          "name": "Xue Song Li",
+          "speciality": ""
+        },
+        {
+          "lat": 34.8562631322675,
+          "long": 112.521157659548,
+          "group": "China Consortium Genetics",
+          "name": "Yongze Li",
+          "speciality": ""
+        },
+        {
+          "lat": 41.7196383035704,
+          "long": 82.7464736368305,
+          "group": "China Consortium Genetics",
+          "name": "Ying Ru",
+          "speciality": ""
+        },
+        {
+          "lat": 22.0258195432738,
+          "long": 111.14870853102,
+          "group": "China Consortium Genetics",
+          "name": "Chun Lin Zuo",
+          "speciality": ""
+        },
+        {
+          "lat": 35.197395179095,
+          "long": 108.152566645287,
+          "group": "China Consortium Genetics",
+          "name": "Shao Ying Yang",
+          "speciality": ""
+        },
+        {
+          "lat": 35.0755890659275,
+          "long": 101.866394668334,
+          "group": "China Consortium Genetics",
+          "name": "Hui Zhu",
+          "speciality": ""
+        },
+        {
+          "lat": 33.7303279712302,
+          "long": 104.545458344876,
+          "group": "China Consortium Genetics",
+          "name": "Jie Qiao",
+          "speciality": ""
+        },
+        {
+          "lat": 48.2293900278835,
+          "long": 124.886567554651,
+          "group": "China Consortium Genetics",
+          "name": "Miao Xuan",
+          "speciality": ""
+        },
+        {
+          "lat": 34.9006423608258,
+          "long": 112.464874683938,
+          "group": "China Consortium Genetics",
+          "name": "Bin Su",
+          "speciality": ""
+        },
+        {
+          "lat": 24.1828401445942,
+          "long": 99.9599183878718,
+          "group": "China Consortium Genetics",
+          "name": "Feng Sun",
+          "speciality": ""
+        },
+        {
+          "lat": 42.6456349297095,
+          "long": 129.428400811603,
+          "group": "China Consortium Genetics",
+          "name": "Jun Hua Ma",
+          "speciality": ""
+        },
+        {
+          "lat": 41.6096076030658,
+          "long": 114.57025650371,
+          "group": "China Consortium Genetics",
+          "name": "Sai Juan Chen",
+          "speciality": ""
+        },
+        {
+          "lat": 42.5766067771159,
+          "long": 111.788552176682,
+          "group": "China Consortium Genetics",
+          "name": "Hao Ming Tian",
+          "speciality": ""
+        },
+        {
+          "lat": 31.9691985732723,
+          "long": 114.0689922465,
+          "group": "China Consortium Genetics",
+          "name": "Sai Juan Chen",
+          "speciality": ""
+        },
+        {
+          "lat": 36.7221882600935,
+          "long": 128.952840533992,
+          "group": "Korean Soc Thyroid Radiology KSThR; Korean Soc Radiology",
+          "name": "Xia Chen",
+          "speciality": ""
+        },
+        {
+          "lat": 37.2578689990655,
+          "long": 129.00120946198,
+          "group": "Korean Soc Thyroid Radiology KSThR; Korean Soc Radiology",
+          "name": "Young Jun Choi",
+          "speciality": ""
+        },
+        {
+          "lat": 36.4597741109711,
+          "long": 127.7429391517,
+          "group": "Korean Soc Thyroid Radiology KSThR; Korean Soc Radiology",
+          "name": "Chong Hyun Suh",
+          "speciality": ""
+        },
+        {
+          "lat": 37.6191557103402,
+          "long": 126.790990535313,
+          "group": "Korean Soc Thyroid Radiology KSThR; Korean Soc Radiology",
+          "name": "Miyoung Choi",
+          "speciality": ""
+        },
+        {
+          "lat": 36.587004074514,
+          "long": 127.906442152309,
+          "group": "Korean Soc Thyroid Radiology KSThR; Korean Soc Radiology",
+          "name": "Jung Hwan Baek",
+          "speciality": ""
+        },
+        {
+          "lat": 38.3293577641807,
+          "long": 140.858058065503,
+          "group": "Japan Thyroid Assoc",
+          "name": "Natsuko Watanabe",
+          "speciality": ""
+        },
+        {
+          "lat": 35.3026037070225,
+          "long": 135.170849347221,
+          "group": "Japan Thyroid Assoc",
+          "name": "Jaeduk Yoshimura Noh",
+          "speciality": ""
+        },
+        {
+          "lat": 27.7713919829859,
+          "long": 129.021582101494,
+          "group": "Japan Thyroid Assoc",
+          "name": "Takashi Akamizu",
+          "speciality": ""
+        },
+        {
+          "lat": 43.5992072628115,
+          "long": 141.933097721027,
+          "group": "Japan Thyroid Assoc",
+          "name": "Masanobu Yamada",
+          "speciality": ""
+        },
+        {
+          "lat": 36.0570979281204,
+          "long": 137.584743782951,
+          "group": "Japan Thyroid Assoc",
+          "name": "study group members of the Japan Thyroid Association",
+          "speciality": ""
+        },
+        {
+          "lat": 44.02169,
+          "long": 21.00866,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "M Zarkovic",
+          "speciality": ""
+        },
+        {
+          "lat": 52.8218060633845,
+          "long": 5.84767473990989,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "W Wiersinga",
+          "speciality": ""
+        },
+        {
+          "lat": 59.03296087262,
+          "long": -3.22437300606777,
+          "group": "EUGOGO European Grp Graves Orbitop",
           "name": "P Perros",
           "speciality": ""
         },
         {
-          "lat": 56.3924235806383,
-          "long": 13.3106198324216,
-          "group": "TEO Study Grp",
-          "name": "J Jarhult",
-          "speciality": ""
-        },
-        {
-          "lat": 54.0424517721003,
-          "long": -2.24602609909764,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "F E Mellington",
-          "speciality": ""
-        },
-        {
-          "lat": 60.239329337846,
-          "long": -1.34113276997099,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "C M Dayan",
-          "speciality": ""
-        },
-        {
-          "lat": 50.9237675145431,
-          "long": -3.11218123467359,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "A J Dickinson",
-          "speciality": ""
-        },
-        {
-          "lat": 53.3184096555162,
-          "long": -0.237157798950506,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "J L Hickey",
-          "speciality": ""
-        },
-        {
-          "lat": 52.2127154635592,
-          "long": -1.44676305903221,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "C J MacEwen",
-          "speciality": ""
-        },
-        {
-          "lat": 52.7176632705641,
-          "long": -2.26476879253449,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "J McLaren",
-          "speciality": ""
-        },
-        {
-          "lat": 52.9206799384635,
-          "long": -2.72600231931681,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "P Perros",
-          "speciality": ""
-        },
-        {
-          "lat": 51.3770576917476,
-          "long": -0.113089692487735,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "G E Rose",
-          "speciality": ""
-        },
-        {
-          "lat": 51.6675224114785,
-          "long": -5.08539054327164,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "J Uddin",
-          "speciality": ""
-        },
-        {
-          "lat": 52.8334443936872,
-          "long": 0.710804240225269,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "B Vaidya",
-          "speciality": ""
-        },
-        {
-          "lat": 51.6242263190074,
-          "long": -1.81929547291984,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "D G Ezra",
-          "speciality": ""
-        },
-        {
-          "lat": 54.6762162203159,
-          "long": -6.5969233888178,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Petros Perros",
+          "lat": 40.9375157863491,
+          "long": 16.4132509931357,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "Luigi Bartalena",
           "speciality": "Endocrinology, Diabetes & Metabolism"
         },
         {
-          "lat": 52.3121505240076,
-          "long": -1.71660146520013,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Colin M Dayan",
+          "lat": 43.6976156415063,
+          "long": 12.4001344009206,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "S Donati",
+          "speciality": ""
+        },
+        {
+          "lat": 58.7976459625419,
+          "long": -3.17048113738214,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "O Okosieme",
+          "speciality": ""
+        },
+        {
+          "lat": 51.6384481397372,
+          "long": -3.0503791264665,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "Niamh Morrison",
+          "speciality": ""
+        },
+        {
+          "lat": 45.9832297154504,
+          "long": 7.11316754971811,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "N Fichter",
+          "speciality": ""
+        },
+        {
+          "lat": 46.8146508629901,
+          "long": 8.87111219445352,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "J Lareida",
+          "speciality": ""
+        },
+        {
+          "lat": 50.0161850106645,
+          "long": 4.28293016278645,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "C Daumerie",
+          "speciality": ""
+        },
+        {
+          "lat": 51.0797368978512,
+          "long": 2.92593261357718,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "M C Burlacu",
+          "speciality": ""
+        },
+        {
+          "lat": 49.9496811198531,
+          "long": 9.13457149348654,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "G J Kahaly",
+          "speciality": ""
+        },
+        {
+          "lat": 53.5627844358495,
+          "long": 9.05383479826526,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "S Pitz",
+          "speciality": ""
+        },
+        {
+          "lat": 44.02033,
+          "long": 21.007098,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "B Beleslin",
+          "speciality": ""
+        },
+        {
+          "lat": 44.017865,
+          "long": 21.00909,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "J Ciric",
+          "speciality": ""
+        },
+        {
+          "lat": 40.0010664338841,
+          "long": 41.6832307877203,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "G Ayvaz",
+          "speciality": ""
+        },
+        {
+          "lat": 37.3342484561524,
+          "long": 36.6549778207206,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "O Konuk",
+          "speciality": ""
+        },
+        {
+          "lat": 39.9436769305015,
+          "long": 38.3448417799211,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "F Borel",
+          "speciality": ""
+        },
+        {
+          "lat": 41.3828365816513,
+          "long": 15.8896362066682,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "M Salvi",
+          "speciality": ""
+        },
+        {
+          "lat": 42.8444765850995,
+          "long": 11.4270224389897,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "D Covelli",
+          "speciality": ""
+        },
+        {
+          "lat": 40.3370780148728,
+          "long": 9.31883138383739,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "N Curro",
+          "speciality": ""
+        },
+        {
+          "lat": 56.1984309453329,
+          "long": 9.38929910355828,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "L Hegedus",
+          "speciality": ""
+        },
+        {
+          "lat": 55.8331020332178,
+          "long": 8.73731194325708,
+          "group": "EUGOGO European Grp Graves Orbitop",
+          "name": "T Brix",
+          "speciality": ""
+        },
+        {
+          "lat": 49.4992958683231,
+          "long": 4.74597745732287,
+          "group": "THYRQOL Grp",
+          "name": "E Mirallie",
+          "speciality": ""
+        },
+        {
+          "lat": 45.2073909414449,
+          "long": 0.615754377949706,
+          "group": "THYRQOL Grp",
+          "name": "F Borel",
+          "speciality": ""
+        },
+        {
+          "lat": 48.2141698930994,
+          "long": 2.68178210420565,
+          "group": "THYRQOL Grp",
+          "name": "C Tresallet",
+          "speciality": ""
+        },
+        {
+          "lat": 43.4759481595066,
+          "long": 1.08515755424512,
+          "group": "THYRQOL Grp",
+          "name": "A Hamy",
+          "speciality": ""
+        },
+        {
+          "lat": 48.7547208126954,
+          "long": -0.0767298386271022,
+          "group": "THYRQOL Grp",
+          "name": "M Mathonnet",
+          "speciality": ""
+        },
+        {
+          "lat": 44.4338475894691,
+          "long": 6.01849890712572,
+          "group": "THYRQOL Grp",
+          "name": "J C Lifante",
+          "speciality": ""
+        },
+        {
+          "lat": 46.6684202942218,
+          "long": 3.88173538034711,
+          "group": "THYRQOL Grp",
+          "name": "L Brunaud",
+          "speciality": ""
+        },
+        {
+          "lat": 44.1991228825754,
+          "long": 2.88555047528197,
+          "group": "THYRQOL Grp",
+          "name": "F Menegaux",
+          "speciality": ""
+        },
+        {
+          "lat": 38.917744,
+          "long": -75.519621,
+          "group": "THYRQOL Grp",
+          "name": "J B Hardouin",
+          "speciality": ""
+        },
+        {
+          "lat": 4.80029182375564,
+          "long": -54.4087337791162,
+          "group": "THYRQOL Grp",
+          "name": "C Blanchard",
+          "speciality": ""
+        },
+        {
+          "lat": 50.7638813437579,
+          "long": 1.71744465849609,
+          "group": "Res Grp Perinatal Dysthyroidism RG",
+          "name": "Michel Polak",
+          "speciality": ""
+        },
+        {
+          "lat": 47.6782142568488,
+          "long": 4.74527087660246,
+          "group": "Res Grp Perinatal Dysthyroidism RG",
+          "name": "Dominique Luton",
+          "speciality": ""
+        },
+        {
+          "lat": 52.620287266505,
+          "long": 7.66467695419746,
+          "group": "Lifelines Cohort Study",
+          "name": "Alexander Teumer",
+          "speciality": ""
+        },
+        {
+          "lat": 51.558994616992,
+          "long": 5.96828929565979,
+          "group": "Lifelines Cohort Study",
+          "name": "Layal Chaker",
+          "speciality": ""
+        },
+        {
+          "lat": 52.1265540476781,
+          "long": 4.69660838927698,
+          "group": "Lifelines Cohort Study",
+          "name": "Stefan Groeneweg",
+          "speciality": ""
+        },
+        {
+          "lat": 51.3818698927752,
+          "long": 8.33682346034708,
+          "group": "Lifelines Cohort Study",
+          "name": "Yongze Li",
+          "speciality": ""
+        },
+        {
+          "lat": 52.2178223701292,
+          "long": 4.73986209111091,
+          "group": "Lifelines Cohort Study",
+          "name": "Celia Di Munno",
+          "speciality": ""
+        },
+        {
+          "lat": 41.2382400972651,
+          "long": 15.7903808613422,
+          "group": "Lifelines Cohort Study",
+          "name": "Caterina Barbieri",
+          "speciality": ""
+        },
+        {
+          "lat": 51.6106914378278,
+          "long": 9.1185907668288,
+          "group": "Lifelines Cohort Study",
+          "name": "Ulla T Schultheiss",
+          "speciality": ""
+        },
+        {
+          "lat": 40.0914564649839,
+          "long": 9.42289085533596,
+          "group": "Lifelines Cohort Study",
+          "name": "Michela Traglia",
+          "speciality": ""
+        },
+        {
+          "lat": 56.037291572141,
+          "long": 9.29405227824081,
+          "group": "Lifelines Cohort Study",
+          "name": "Tarunveer S Ahluwalia",
+          "speciality": ""
+        },
+        {
+          "lat": 43.7384594164936,
+          "long": 142.857828226061,
+          "group": "Lifelines Cohort Study",
+          "name": "Masato Akiyama",
+          "speciality": ""
+        },
+        {
+          "lat": 55.6347678406541,
+          "long": 8.97699455263561,
+          "group": "Lifelines Cohort Study",
+          "name": "Emil Vincent R Appel",
+          "speciality": ""
+        },
+        {
+          "lat": 39.052277,
+          "long": -76.638954,
+          "group": "Lifelines Cohort Study",
+          "name": "Dan E Arking",
+          "speciality": ""
+        },
+        {
+          "lat": 47.756791,
+          "long": -120.735389,
+          "group": "Lifelines Cohort Study",
+          "name": "Alice Arnold",
+          "speciality": ""
+        },
+        {
+          "lat": 55.1513625452395,
+          "long": 9.2144686933554,
+          "group": "Lifelines Cohort Study",
+          "name": "Arne Astrup",
+          "speciality": ""
+        },
+        {
+          "lat": 52.8372431390807,
+          "long": 4.80578978092015,
+          "group": "Lifelines Cohort Study",
+          "name": "Marian Beekman",
+          "speciality": ""
+        },
+        {
+          "lat": 47.751771,
+          "long": -120.730835,
+          "group": "Lifelines Cohort Study",
+          "name": "John P Beilby",
+          "speciality": ""
+        },
+        {
+          "lat": 50.9378930005845,
+          "long": 4.62956288863353,
+          "group": "Lifelines Cohort Study",
+          "name": "Sofie Bekaert",
+          "speciality": ""
+        },
+        {
+          "lat": 31.974114,
+          "long": -99.891942,
+          "group": "Lifelines Cohort Study",
+          "name": "Eric Boerwinkle",
+          "speciality": ""
+        },
+        {
+          "lat": 47.753248,
+          "long": -120.730438,
+          "group": "Lifelines Cohort Study",
+          "name": "Suzanne J Brown",
+          "speciality": ""
+        },
+        {
+          "lat": 50.5971063609126,
+          "long": 5.35357695982678,
+          "group": "Lifelines Cohort Study",
+          "name": "Marc De Buyzere",
+          "speciality": ""
+        },
+        {
+          "lat": 47.752115,
+          "long": -120.735299,
+          "group": "Lifelines Cohort Study",
+          "name": "Purdey J Campbell",
+          "speciality": ""
+        },
+        {
+          "lat": 45.4385157133737,
+          "long": 12.1666697364318,
+          "group": "Lifelines Cohort Study",
+          "name": "Graziano Ceresini",
+          "speciality": ""
+        },
+        {
+          "lat": 55.4181992503613,
+          "long": 9.98958045578538,
+          "group": "Lifelines Cohort Study",
+          "name": "Charlotte Cerqueira",
+          "speciality": ""
+        },
+        {
+          "lat": 40.3527172261216,
+          "long": 8.94170127860724,
+          "group": "Lifelines Cohort Study",
+          "name": "Francesco Cucca",
+          "speciality": ""
+        },
+        {
+          "lat": 57.6040802661859,
+          "long": -5.67204702556222,
+          "group": "Lifelines Cohort Study",
+          "name": "Ian J Deary",
+          "speciality": ""
+        },
+        {
+          "lat": 53.0246546248975,
+          "long": 6.53124637866409,
+          "group": "Lifelines Cohort Study",
+          "name": "Joris Deelen",
+          "speciality": ""
+        },
+        {
+          "lat": 53.0084172772226,
+          "long": 13.3863991371084,
+          "group": "Lifelines Cohort Study",
+          "name": "Kai Uwe Eckardt",
+          "speciality": ""
+        },
+        {
+          "lat": 52.7763561947823,
+          "long": 13.6163688246256,
+          "group": "Lifelines Cohort Study",
+          "name": "Arif B Ekici",
+          "speciality": ""
+        },
+        {
+          "lat": 62.6906107557739,
+          "long": 26.6150423312869,
+          "group": "Lifelines Cohort Study",
+          "name": "Johan G Eriksson",
+          "speciality": ""
+        },
+        {
+          "lat": 39.047117,
+          "long": -76.638451,
+          "group": "Lifelines Cohort Study",
+          "name": "Luigi Ferrrucci",
+          "speciality": ""
+        },
+        {
+          "lat": 50.5835877034291,
+          "long": 4.87564419423067,
+          "group": "Lifelines Cohort Study",
+          "name": "Tom Fiers",
+          "speciality": ""
+        },
+        {
+          "lat": 45.731010349524,
+          "long": 7.80764419806309,
+          "group": "Lifelines Cohort Study",
+          "name": "Edoardo Fiorillo",
+          "speciality": ""
+        },
+        {
+          "lat": 58.5526964875373,
+          "long": -3.8933685555542,
+          "group": "Lifelines Cohort Study",
+          "name": "Ian Ford",
+          "speciality": ""
+        },
+        {
+          "lat": 42.41311,
+          "long": -71.374362,
+          "group": "Lifelines Cohort Study",
+          "name": "Caroline S Fox",
           "speciality": "Endocrinology, Diabetes & Metabolism"
         },
         {
-          "lat": 53.5243870243199,
-          "long": -2.03293539408451,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "A Jane Dickinson",
+          "lat": 45.9340398720965,
+          "long": 12.6443194355817,
+          "group": "Lifelines Cohort Study",
+          "name": "Christian Fuchsberger",
           "speciality": ""
         },
         {
-          "lat": 57.3791969344109,
-          "long": -3.55486819082294,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Daniel G Ezra",
-          "speciality": "Ophthalmology"
-        },
-        {
-          "lat": 53.1782257434017,
-          "long": -0.181251855517617,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Janis L Hickey",
+          "lat": 52.1146553632377,
+          "long": 4.31802505482962,
+          "group": "Lifelines Cohort Study",
+          "name": "Tessel E Galesloot",
           "speciality": ""
         },
         {
-          "lat": 52.9441883882873,
-          "long": 7.75699809909182,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Christoph Hintschisch",
+          "lat": 54.3218260057533,
+          "long": 9.13310144456457,
+          "group": "Lifelines Cohort Study",
+          "name": "Christian Gieger",
           "speciality": ""
         },
         {
-          "lat": 52.0969338588471,
-          "long": 8.72335009630565,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "George Kahaly",
+          "lat": 42.8179845976034,
+          "long": 11.7833824774964,
+          "group": "Lifelines Cohort Study",
+          "name": "Martin Gogele",
+          "speciality": ""
+        },
+        {
+          "lat": 38.693294915639,
+          "long": 16.4305404739758,
+          "group": "Lifelines Cohort Study",
+          "name": "Alessandro De Grandi",
+          "speciality": ""
+        },
+        {
+          "lat": 55.5656721203897,
+          "long": 8.70827611718424,
+          "group": "Lifelines Cohort Study",
+          "name": "Niels Grarup",
+          "speciality": ""
+        },
+        {
+          "lat": 51.9494999482689,
+          "long": 10.1262002186146,
+          "group": "Lifelines Cohort Study",
+          "name": "Karin Halina Greiser",
+          "speciality": ""
+        },
+        {
+          "lat": 60.5364052484065,
+          "long": 22.5863944586252,
+          "group": "Lifelines Cohort Study",
+          "name": "Karin Halina Greiser",
+          "speciality": ""
+        },
+        {
+          "lat": 57.0922975273915,
+          "long": 9.88036196062921,
+          "group": "Lifelines Cohort Study",
+          "name": "Torben Hansen",
+          "speciality": ""
+        },
+        {
+          "lat": 51.2239037067923,
+          "long": 0.243003228252202,
+          "group": "Lifelines Cohort Study",
+          "name": "Sarah E Harris",
+          "speciality": ""
+        },
+        {
+          "lat": 52.9913264191136,
+          "long": 6.01226296884082,
+          "group": "Lifelines Cohort Study",
+          "name": "Diana van Heemst",
+          "speciality": ""
+        },
+        {
+          "lat": 53.1489744140416,
+          "long": 5.72848693106705,
+          "group": "Lifelines Cohort Study",
+          "name": "Martin den Heijer",
+          "speciality": ""
+        },
+        {
+          "lat": 46.5166808094843,
+          "long": 10.9424633168074,
+          "group": "Lifelines Cohort Study",
+          "name": "Andrew A Hicks",
+          "speciality": ""
+        },
+        {
+          "lat": 52.2032826097903,
+          "long": 5.87738391607078,
+          "group": "Lifelines Cohort Study",
+          "name": "Wouter den Hollander",
+          "speciality": ""
+        },
+        {
+          "lat": 53.9544720648578,
+          "long": 9.12330873548505,
+          "group": "Lifelines Cohort Study",
+          "name": "Georg Homuth",
+          "speciality": ""
+        },
+        {
+          "lat": 47.751552,
+          "long": -120.731033,
+          "group": "Lifelines Cohort Study",
+          "name": "Jennie Hui",
+          "speciality": ""
+        },
+        {
+          "lat": 52.7138619831926,
+          "long": 5.60750905993939,
+          "group": "Lifelines Cohort Study",
+          "name": "M Arfan Ikram",
+          "speciality": ""
+        },
+        {
+          "lat": 50.5171796612925,
+          "long": 9.59610320203607,
+          "group": "Lifelines Cohort Study",
+          "name": "Till Ittermann",
+          "speciality": ""
+        },
+        {
+          "lat": 47.754169,
+          "long": -120.731018,
+          "group": "Lifelines Cohort Study",
+          "name": "Richard A Jensen",
+          "speciality": ""
+        },
+        {
+          "lat": 51.6819594516132,
+          "long": 12.1793286162772,
+          "group": "Lifelines Cohort Study",
+          "name": "Jiaojiao Jing",
+          "speciality": ""
+        },
+        {
+          "lat": 52.6822465549249,
+          "long": 6.39838727874599,
+          "group": "Lifelines Cohort Study",
+          "name": "J Wouter Jukema",
+          "speciality": ""
+        },
+        {
+          "lat": 63.1880725134409,
+          "long": 25.0807280691448,
+          "group": "Lifelines Cohort Study",
+          "name": "Eero Kajantie",
+          "speciality": ""
+        },
+        {
+          "lat": 43.7990882828119,
+          "long": 142.947737232231,
+          "group": "Lifelines Cohort Study",
+          "name": "Yoichiro Kamatani",
+          "speciality": ""
+        },
+        {
+          "lat": 50.2831386730382,
+          "long": 6.42161563723106,
+          "group": "Lifelines Cohort Study",
+          "name": "Elisa Kasbohm",
+          "speciality": ""
+        },
+        {
+          "lat": 50.2996610299502,
+          "long": 5.68904641209709,
+          "group": "Lifelines Cohort Study",
+          "name": "Jean Marc Kaufman",
+          "speciality": ""
+        },
+        {
+          "lat": 53.2195599216318,
+          "long": 6.76523012093394,
+          "group": "Lifelines Cohort Study",
+          "name": "Lambertus A Kiemeney",
+          "speciality": ""
+        },
+        {
+          "lat": 51.3412716599168,
+          "long": 5.26626580470634,
+          "group": "Lifelines Cohort Study",
+          "name": "Margreet Kloppenburg",
+          "speciality": ""
+        },
+        {
+          "lat": 47.4463120249711,
+          "long": 11.6717886047455,
+          "group": "Lifelines Cohort Study",
+          "name": "Florian Kronenberg",
+          "speciality": ""
+        },
+        {
+          "lat": 35.3448928063599,
+          "long": 134.512891880146,
+          "group": "Lifelines Cohort Study",
+          "name": "Michiaki Kubo",
+          "speciality": ""
+        },
+        {
+          "lat": 67.0255559707058,
+          "long": 26.857632794188,
+          "group": "Lifelines Cohort Study",
+          "name": "Jari Lahti",
+          "speciality": ""
+        },
+        {
+          "lat": 50.5762049916953,
+          "long": 5.75483203818658,
+          "group": "Lifelines Cohort Study",
+          "name": "Bruno Lapauw",
+          "speciality": ""
+        },
+        {
+          "lat": 42.410234,
+          "long": -71.378006,
+          "group": "Lifelines Cohort Study",
+          "name": "Xue Song Li",
+          "speciality": ""
+        },
+        {
+          "lat": 53.6487891576013,
+          "long": -0.898570009900307,
+          "group": "Lifelines Cohort Study",
+          "name": "David C M Liewald",
+          "speciality": ""
+        },
+        {
+          "lat": 47.753294,
+          "long": -120.736967,
+          "group": "Lifelines Cohort Study",
+          "name": "Ee Mun Lim",
+          "speciality": ""
+        },
+        {
+          "lat": 55.0655047288492,
+          "long": 14.7846293310755,
+          "group": "Lifelines Cohort Study",
+          "name": "Allan Linneberg",
+          "speciality": ""
+        },
+        {
+          "lat": 40.083079273907,
+          "long": 9.0548211337839,
+          "group": "Lifelines Cohort Study",
+          "name": "Michela Traglia",
+          "speciality": ""
+        },
+        {
+          "lat": 43.4569561124397,
+          "long": 10.7971877961496,
+          "group": "Lifelines Cohort Study",
+          "name": "Deborah Mascalzoni",
+          "speciality": ""
+        },
+        {
+          "lat": 42.98742533554,
+          "long": 144.628157886841,
+          "group": "Lifelines Cohort Study",
+          "name": "Koichi Matsuda",
+          "speciality": ""
+        },
+        {
+          "lat": 48.7404378068628,
+          "long": 13.2689150403456,
+          "group": "Lifelines Cohort Study",
+          "name": "Daniel Medenwald",
+          "speciality": ""
+        },
+        {
+          "lat": 49.1142309988846,
+          "long": 7.05743251460356,
+          "group": "Lifelines Cohort Study",
+          "name": "Christa Meisinger",
+          "speciality": ""
+        },
+        {
+          "lat": 51.3691952050571,
+          "long": 5.7567318071015,
+          "group": "Lifelines Cohort Study",
+          "name": "Ingrid Meulenbelt",
+          "speciality": ""
+        },
+        {
+          "lat": 50.7446554829022,
+          "long": 2.83751304121716,
+          "group": "Lifelines Cohort Study",
+          "name": "Tim De Meyer",
+          "speciality": ""
+        },
+        {
+          "lat": 47.1137942042601,
+          "long": 9.2098666948065,
+          "group": "Lifelines Cohort Study",
+          "name": "Henriette E Meyer Zu Schwabedissen",
+          "speciality": ""
+        },
+        {
+          "lat": 48.7874179945931,
+          "long": 11.1614335475964,
+          "group": "Lifelines Cohort Study",
+          "name": "Rafael Mikolajczyk",
+          "speciality": ""
+        },
+        {
+          "lat": 51.5559026590611,
+          "long": 5.64516376036372,
+          "group": "Lifelines Cohort Study",
+          "name": "Matthijs Moed",
+          "speciality": ""
+        },
+        {
+          "lat": 51.4604598470366,
+          "long": 3.82657163134145,
+          "group": "Lifelines Cohort Study",
+          "name": "Romana T Netea Maier",
+          "speciality": ""
+        },
+        {
+          "lat": 51.4276042248258,
+          "long": 4.55049067123665,
+          "group": "Lifelines Cohort Study",
+          "name": "Ilja M Nolte",
+          "speciality": ""
+        },
+        {
+          "lat": 35.1479983343236,
+          "long": 136.766278743762,
+          "group": "Lifelines Cohort Study",
+          "name": "Yukinori Okada",
+          "speciality": ""
+        },
+        {
+          "lat": 45.5226361297155,
+          "long": 8.61548138974858,
+          "group": "Lifelines Cohort Study",
+          "name": "Mauro Pala",
+          "speciality": ""
+        },
+        {
+          "lat": 40.4033782824057,
+          "long": 8.70121583470699,
+          "group": "Lifelines Cohort Study",
+          "name": "Cristian Pattaro",
+          "speciality": ""
+        },
+        {
+          "lat": 57.3866819108242,
+          "long": 9.94771368900607,
+          "group": "Lifelines Cohort Study",
+          "name": "Oluf Pedersen",
+          "speciality": ""
+        },
+        {
+          "lat": 48.6114726150484,
+          "long": 8.32938855185343,
+          "group": "Lifelines Cohort Study",
+          "name": "Astrid Petersmann",
+          "speciality": ""
+        },
+        {
+          "lat": 42.757780227001,
+          "long": 12.8105161830812,
+          "group": "Lifelines Cohort Study",
+          "name": "Eleonora Porcu",
+          "speciality": ""
+        },
+        {
+          "lat": 52.3304306770368,
+          "long": 5.61957500732858,
+          "group": "Lifelines Cohort Study",
+          "name": "Iris Postmus",
+          "speciality": ""
+        },
+        {
+          "lat": 44.5236671533996,
+          "long": 11.6250883378843,
+          "group": "Lifelines Cohort Study",
+          "name": "Peter P Pramstaller",
+          "speciality": ""
+        },
+        {
+          "lat": 47.754479,
+          "long": -120.734458,
+          "group": "Lifelines Cohort Study",
+          "name": "Bruce M Psaty",
+          "speciality": ""
+        },
+        {
+          "lat": 52.357724924805,
+          "long": 6.57179517918877,
+          "group": "Lifelines Cohort Study",
+          "name": "Yolande F M Ramos",
+          "speciality": ""
+        },
+        {
+          "lat": 51.1584221252648,
+          "long": 13.784579607992,
+          "group": "Lifelines Cohort Study",
+          "name": "Rajesh Rawal",
+          "speciality": ""
+        },
+        {
+          "lat": 51.8250281949145,
+          "long": -3.8110091930261,
+          "group": "Lifelines Cohort Study",
+          "name": "Paul Redmond",
+          "speciality": ""
+        },
+        {
+          "lat": 70.6916692804492,
+          "long": -96.1858449835807,
+          "group": "Lifelines Cohort Study",
+          "name": "J Brent Richards",
+          "speciality": ""
+        },
+        {
+          "lat": 50.0870579459843,
+          "long": 4.959300786508,
+          "group": "Lifelines Cohort Study",
+          "name": "Ernst R Rietzschel",
+          "speciality": ""
+        },
+        {
+          "lat": 52.8695608029793,
+          "long": 5.17071647215037,
+          "group": "Lifelines Cohort Study",
+          "name": "Fernando Rivadeneira",
+          "speciality": ""
+        },
+        {
+          "lat": 50.6021832188628,
+          "long": 5.99811787019849,
+          "group": "Lifelines Cohort Study",
+          "name": "Greet Roef",
+          "speciality": ""
+        },
+        {
+          "lat": 36.77985,
+          "long": -119.409247,
+          "group": "Lifelines Cohort Study",
+          "name": "Jerome I Rotter",
+          "speciality": ""
+        },
+        {
+          "lat": 42.4324695228018,
+          "long": 13.7247506630307,
+          "group": "Lifelines Cohort Study",
+          "name": "Cinzia F Sala",
+          "speciality": ""
+        },
+        {
+          "lat": 39.051292,
+          "long": -76.639363,
+          "group": "Lifelines Cohort Study",
+          "name": "David Schlessinger",
+          "speciality": ""
+        },
+        {
+          "lat": 39.049614,
+          "long": -76.633983,
+          "group": "Lifelines Cohort Study",
+          "name": "M Salvi",
+          "speciality": ""
+        },
+        {
+          "lat": 51.802806809046,
+          "long": 5.41227753889473,
+          "group": "Lifelines Cohort Study",
+          "name": "P Eline Slagboom",
+          "speciality": ""
+        },
+        {
+          "lat": 58.5095028557931,
+          "long": -3.36009708886514,
+          "group": "Lifelines Cohort Study",
+          "name": "Nicole Soranzo",
+          "speciality": ""
+        },
+        {
+          "lat": 55.6695908477431,
+          "long": 8.44708709566495,
+          "group": "Lifelines Cohort Study",
+          "name": "Thorkild I A Sorensen",
+          "speciality": ""
+        },
+        {
+          "lat": 55.0384702077082,
+          "long": -1.46808092307774,
+          "group": "Lifelines Cohort Study",
+          "name": "Timothy D Spector",
+          "speciality": ""
+        },
+        {
+          "lat": 53.3034020381547,
+          "long": 0.27994531606591,
+          "group": "Lifelines Cohort Study",
+          "name": "John M Starr",
+          "speciality": ""
+        },
+        {
+          "lat": 55.7117700664723,
+          "long": -2.80034036674063,
+          "group": "Lifelines Cohort Study",
+          "name": "David J Stott",
+          "speciality": ""
+        },
+        {
+          "lat": 50.5598260679195,
+          "long": 4.38623431976445,
+          "group": "Lifelines Cohort Study",
+          "name": "Youri Taes",
+          "speciality": ""
+        },
+        {
+          "lat": 41.6811107234939,
+          "long": 14.4415453892037,
+          "group": "Lifelines Cohort Study",
+          "name": "Daniel Taliun",
+          "speciality": ""
+        },
+        {
+          "lat": 39.04915,
+          "long": -76.63919,
+          "group": "Lifelines Cohort Study",
+          "name": "Toshiko Tanaka",
+          "speciality": ""
+        },
+        {
+          "lat": 56.3208919799631,
+          "long": 10.3041441121186,
+          "group": "Lifelines Cohort Study",
+          "name": "Betina Thuesen",
+          "speciality": ""
+        },
+        {
+          "lat": 48.738805504337,
+          "long": 12.1463075637305,
+          "group": "Lifelines Cohort Study",
+          "name": "Daniel Tiller",
+          "speciality": ""
+        },
+        {
+          "lat": 38.4637278560725,
+          "long": 16.3572163637284,
+          "group": "Lifelines Cohort Study",
+          "name": "Daniela Toniolo",
+          "speciality": ""
+        },
+        {
+          "lat": 53.1901825317042,
+          "long": 5.57484370722757,
+          "group": "Lifelines Cohort Study",
+          "name": "Andre G Uitterlinden",
+          "speciality": ""
+        },
+        {
+          "lat": 52.7260858945621,
+          "long": 6.27898867909006,
+          "group": "Lifelines Cohort Study",
+          "name": "W Edward Visser",
+          "speciality": ""
+        },
+        {
+          "lat": 47.755749,
+          "long": -120.730312,
+          "group": "Lifelines Cohort Study",
+          "name": "John P Walsh",
+          "speciality": ""
+        },
+        {
+          "lat": 47.759086,
+          "long": -120.731309,
+          "group": "Lifelines Cohort Study",
+          "name": "Scott G Wilson",
+          "speciality": ""
+        },
+        {
+          "lat": 51.9511903466927,
+          "long": 6.5187554151027,
+          "group": "Lifelines Cohort Study",
+          "name": "Bruce H R Wolffenbuttel",
+          "speciality": ""
+        },
+        {
+          "lat": 42.414885,
+          "long": -71.373448,
+          "group": "Lifelines Cohort Study",
+          "name": "Shao Ying Yang",
+          "speciality": ""
+        },
+        {
+          "lat": 39.0380306680289,
+          "long": 91.4417757005076,
+          "group": "Lifelines Cohort Study",
+          "name": "Hou Feng Zheng",
+          "speciality": ""
+        },
+        {
+          "lat": 41.211149,
+          "long": -77.18721,
+          "group": "Lifelines Cohort Study",
+          "name": "Anne Cappola",
           "speciality": "Endocrinology, Diabetes & Metabolism"
         },
         {
-          "lat": 52.9427945451895,
-          "long": -3.71234676950064,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "John H Lazarus",
+          "lat": 51.3297023025151,
+          "long": 5.12968846938314,
+          "group": "Lifelines Cohort Study",
+          "name": "Robin P Peeters",
+          "speciality": ""
+        },
+        {
+          "lat": 41.9644092635575,
+          "long": 12.6014125218155,
+          "group": "Lifelines Cohort Study",
+          "name": "Silvia Naitza",
+          "speciality": ""
+        },
+        {
+          "lat": 51.9630099682196,
+          "long": 7.91741436730162,
+          "group": "Lifelines Cohort Study",
+          "name": "Henry Volzke",
+          "speciality": ""
+        },
+        {
+          "lat": 36.9048558192006,
+          "long": 14.817743001504,
+          "group": "Lifelines Cohort Study",
+          "name": "Serena Sanna",
+          "speciality": ""
+        },
+        {
+          "lat": 47.5972331070983,
+          "long": 11.8425837550744,
+          "group": "Lifelines Cohort Study",
+          "name": "Anna Kottgen",
+          "speciality": ""
+        },
+        {
+          "lat": 52.041991899763,
+          "long": 6.07356907671078,
+          "group": "Lifelines Cohort Study",
+          "name": "Theo J Visser",
+          "speciality": ""
+        },
+        {
+          "lat": 51.9533425479268,
+          "long": 4.91376681835331,
+          "group": "Lifelines Cohort Study",
+          "name": "Marco Medici",
+          "speciality": ""
+        },
+        {
+          "lat": 29.932839612598,
+          "long": 98.5640766431204,
+          "group": "Thyroid Disorders Iodine Status Di",
+          "name": "Yongze Li",
+          "speciality": ""
+        },
+        {
+          "lat": 37.2531301810638,
+          "long": 87.3659592164449,
+          "group": "Thyroid Disorders Iodine Status Di",
+          "name": "Thyroid Disorders Iodine Status and Diabetes Epidemiological Survey Group",
+          "speciality": ""
+        },
+        {
+          "lat": 55.0979311009677,
+          "long": -2.79196616716826,
+          "group": "British Soc Paediat Endocrinology",
+          "name": "Claire L Wood",
+          "speciality": ""
+        },
+        {
+          "lat": 53.2424186791675,
+          "long": -0.713704970814606,
+          "group": "British Soc Paediat Endocrinology",
+          "name": "Michael Villa",
+          "speciality": ""
+        },
+        {
+          "lat": 56.6861846051007,
+          "long": -4.90609713122468,
+          "group": "British Soc Paediat Endocrinology",
+          "name": "Malcolm Donaldson",
+          "speciality": ""
+        },
+        {
+          "lat": 57.2552160229115,
+          "long": -3.4540035776217,
+          "group": "British Soc Paediat Endocrinology",
+          "name": "David B Dunger",
+          "speciality": ""
+        },
+        {
+          "lat": 52.613750024486,
+          "long": -3.17137788634114,
+          "group": "British Soc Paediat Endocrinology",
+          "name": "Ruth Wood",
+          "speciality": ""
+        },
+        {
+          "lat": 52.8768701980706,
+          "long": 0.0978366385741303,
+          "group": "British Soc Paediat Endocrinology",
+          "name": "Niamh Morrison",
+          "speciality": ""
+        },
+        {
+          "lat": 50.9182320534904,
+          "long": -4.21902287837241,
+          "group": "British Soc Paediat Endocrinology",
+          "name": "John N S Matthews",
+          "speciality": ""
+        },
+        {
+          "lat": 50.8791388419616,
+          "long": -2.78948275302805,
+          "group": "British Soc Paediat Endocrinology",
+          "name": "Simon H S Pearce",
           "speciality": "Endocrinology, Diabetes & Metabolism"
         },
         {
-          "lat": 55.4547956095718,
-          "long": -2.91816618495641,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Marian Ludgate",
+          "lat": 53.7830239188758,
+          "long": -0.926045088837295,
+          "group": "British Soc Paediat Endocrinology",
+          "name": "Timothy D Cheetham",
           "speciality": ""
-        },
-        {
-          "lat": 48.1195047634559,
-          "long": 3.66127499097963,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Beate Bartes",
-          "speciality": ""
-        },
-        {
-          "lat": 52.3783425384962,
-          "long": 1.57838404955709,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Caroline J MacEwen",
-          "speciality": ""
-        },
-        {
-          "lat": 58.3487134290259,
-          "long": -4.86131821414305,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Anna L Mitchell",
-          "speciality": "Endocrinology, Diabetes & Metabolism"
-        },
-        {
-          "lat": 54.3361109427517,
-          "long": -7.89628868471119,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Dan Morris",
-          "speciality": ""
-        },
-        {
-          "lat": 52.6010702735143,
-          "long": -1.60672519970776,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Nicole O'Connor",
-          "speciality": ""
-        },
-        {
-          "lat": 55.7836241955385,
-          "long": -5.07650012009316,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Simon H Pearce",
-          "speciality": "Endocrinology, Diabetes & Metabolism"
-        },
-        {
-          "lat": 52.5622867090374,
-          "long": 0.531588684243651,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Geoffrey E Rose",
-          "speciality": "Ophthalmology"
-        },
-        {
-          "lat": 40.6798845821798,
-          "long": 9.65152613626952,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Mario Salvi",
-          "speciality": "Endocrinology, Diabetes & Metabolism"
-        },
-        {
-          "lat": 52.2901316753301,
-          "long": 4.52223399865879,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Wilmar M Wiersinga",
-          "speciality": ""
-        },
-        {
-          "lat": 57.3505644318605,
-          "long": -6.00607058241785,
-          "group": "Thyroid Eye Dis Amsterdam Declara",
-          "name": "Alyson Williamson",
-          "speciality": ""
-        },
-        {
-          "lat": 55.7845725027563,
-          "long": 13.1245226534909,
-          "group": "Thyroid Study Grp TT 96",
-          "name": "Mirna Abraham Nordling",
-          "speciality": ""
-        },
-        {
-          "lat": 62.8942898524649,
-          "long": 12.8064975864873,
-          "group": "Thyroid Study Grp TT 96",
-          "name": "Frank Traisk",
-          "speciality": ""
-        },
-        {
-          "lat": -49.4691141768931,
-          "long": -74.655490636824,
-          "group": "Tocilizumab Graves Orbitopathy Stu",
-          "name": "Jose V Perez Moreiras",
-          "speciality": ""
-        },
-        {
-          "lat": -28.790334985751,
-          "long": -71.0042320558041,
-          "group": "Tocilizumab Graves Orbitopathy Stu",
-          "name": "Juan J Gomez Reino",
-          "speciality": ""
-        },
-        {
-          "lat": -22.65273897269,
-          "long": -69.1022952143642,
-          "group": "Tocilizumab Graves Orbitopathy Stu",
-          "name": "Jose R Maneiro",
-          "speciality": ""
-        },
-        {
-          "lat": -37.3248370176714,
-          "long": -72.2416241642168,
-          "group": "Tocilizumab Graves Orbitopathy Stu",
-          "name": "Eva Perez Pampin",
-          "speciality": ""
-        },
-        {
-          "lat": 40.3881653933368,
-          "long": -3.7669529291874,
-          "group": "Tocilizumab Graves Orbitopathy Stu",
-          "name": "Angel Romo Lopez",
-          "speciality": ""
-        },
-        {
-          "lat": 41.0756402478263,
-          "long": -0.798900032474823,
-          "group": "Tocilizumab Graves Orbitopathy Stu",
-          "name": "Fernando M Rodriguez Alvarez",
-          "speciality": ""
-        },
-        {
-          "lat": 36.7775523357997,
-          "long": -4.83402401397892,
-          "group": "Tocilizumab Graves Orbitopathy Stu",
-          "name": "Jesus M Castillo Laguarta",
-          "speciality": ""
-        },
-        {
-          "lat": 37.0645625870321,
-          "long": -6.13647084368597,
-          "group": "Tocilizumab Graves Orbitopathy Stu",
-          "name": "Aurora Del Estad Cabello",
-          "speciality": ""
-        },
-        {
-          "lat": 37.9369510659378,
-          "long": -5.34825560764373,
-          "group": "Tocilizumab Graves Orbitopathy Stu",
-          "name": "Maria Gessa Sorroche",
-          "speciality": ""
-        },
-        {
-          "lat": 38.3935294294,
-          "long": -4.38345111519393,
-          "group": "Tocilizumab Graves Orbitopathy Stu",
-          "name": "Enrique Espana Gregori",
-          "speciality": ""
-        },
-        {
-          "lat": 41.3167195423955,
-          "long": 0.276717733616362,
-          "group": "Tocilizumab Graves Orbitopathy Stu",
-          "name": "Marco Sales Sanz",
-          "speciality": "Ophthalmology"
         }
       ]
 }
 
 // generating json points for map
-// const result = input.features.map(x => {
-//   return {
-//     "type": "Feature",
-//     "id": 0,
-//     "properties": {
-//       "Code": x.group,
-//       "Name": x.name,
-//       "Speciality": x.speciality
-//     },
-//     "geometry": {
-//       "type": "Point",
-//       "coordinates": [x.long, x.lat]
-//     }
-//   }
-// })
+const result = input.features.map(x => {
+  return {
+    "type": "Feature",
+    "id": 0,
+    "properties": {
+      "Code": x.group,
+      "Name": x.name,
+      "Speciality": x.speciality
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [x.long, x.lat]
+    }
+  }
+})
 
 // splitted for logging fully
 // console.log(result.length)
@@ -1144,25 +1984,23 @@ const input = {
 // console.log([...new Set(input.features.map(x => x.group))])
 
 // Generate dropdown options list for react-select format { label, value }
-// const dropdownlist = [
-//     'British Oculoplastic Surg Soc BOP',
-//     'CIRTED Investigators',
-//     'EUGOGO',
-//     'European Grp Graves Orbitopathy',
-//     'European Multicenter Trial Grp Tre',
-//     'Int Thyroid Eye Dis Soc',
-//     'Korean Soc Ophthalmic Plastic Reco',
-//     'NORDIC',
-//     'Orbital Dis Consortium',
-//     'TAO Multictr Study Grp',
-//     'TEAMeD UK Thyroid Eye Dis',
-//     'TEO Study Grp',
-//     'Thyroid Eye Dis Amsterdam Declara',
-//     'Thyroid Study Grp TT 96',
-//     'Tocilizumab Graves Orbitopathy Stu'
-// ]
+const dropdownlist = [
+  'Consensus Work Grp',
+  'Asian Graves Consortium Study',
+  'China Consortium Genetics',
+  'Soc Espanola Endocrinologia Pediat',
+  'Prospective Evaluation Study',
+  'Korean Soc Thyroid Radiology KSThR; Korean Soc Radiology',
+  'Japan Thyroid Assoc',
+  'EUGOGO European Grp Graves Orbitop',
+  'THYRQOL Grp',
+  'Res Grp Perinatal Dysthyroidism RG',
+  'Lifelines Cohort Study',
+  'Thyroid Disorders Iodine Status Di',
+  'British Soc Paediat Endocrinology'
+]
 // console.log(dropdownlist.map(x => ({label: x, value: x})))
 
 // // Create HCPs List
-// const hcpList = [...(new Set(input.features.map(item => item.name)))]
-// console.log(JSON.stringify(hcpList.map(x => ({label: x, value: x}))))
+const hcpList = [...(new Set(input.features.map(item => item.name)))]
+console.log(JSON.stringify(hcpList.map(x => ({label: x, value: x}))))
